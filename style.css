@@ -1,0 +1,54 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas{
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-top: 10px;
+  border: 2px solid black;
+}
+.startButtons{
+  background-color: white;
+  border-color: #972c97;
+  border-radius: 5px;
+  font-weight: bold;
+  color: #13316c;
+  height : 45px;
+  width : 100px
+}
+
+.minorButtons{
+  background-color: #ffffff;
+  border-color: #972c97;
+  border-radius: 5px;
+  font-weight: bold;
+  color: #13316c;
+   height : 35px; 
+  width : 130px
+}
+
+#pause{
+  background-color: #ffffff;
+  border-color: #972c97;
+  border-radius: 7px;
+  font-weight: bold;
+  color: #13316c;
+}
+
+#setting{
+  background-color: #ffffff;
+  border-color: #ffffff;
+  border-radius: 7px;
+  font-weight: bold;
+  color: #13316c;
+ 
+}
+
+.sound{
+  background-color: #ffffff;
+  border-color: #972c97;
+  border-radius: 7px;
+  font-weight: bold;
+  color: #13316c;
+}
