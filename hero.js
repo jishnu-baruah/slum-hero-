@@ -76,7 +76,7 @@ function stare() {
 }
 
 function dustbinControl() {
-    //  dustbin.x = World.mouseX;
+     dustbin.x = World.mouseX;
     wheel.x = dustbin.x - 13
     hero.x = dustbin.x - 70;
 
